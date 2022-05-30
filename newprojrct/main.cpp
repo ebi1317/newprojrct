@@ -9,6 +9,7 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    //hello hello hallo
+    std::cout << "this a test";
     return 0;
 }
